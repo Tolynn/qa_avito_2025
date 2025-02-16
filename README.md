@@ -12,8 +12,8 @@
 ## Установка
 1. Клонируйте репозиторий:
    ```sh
-   git clone https://github.com/your-repo.git
-   cd your-repo
+   git clone https://github.com/Tolynn/qa_avito_2025.git
+   cd test_api
    ```
 2. Установите пакеты:
    ```sh
